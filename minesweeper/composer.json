@@ -1,0 +1,12 @@
+{
+    "name": "mario/minesweeper-mariogonzalez123",
+    "type": "project",
+    "require": {
+        "eftec/bladeone": "^4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mario\\MinesweeperMariogonzalez123\\": "src/"
+        }
+    }
+}

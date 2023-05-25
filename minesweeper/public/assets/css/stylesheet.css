@@ -1,0 +1,35 @@
+/* Stylesheet */
+
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, tr, td {
+    border: 1px black solid;
+}
+
+td {
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 1.5em;
+    height: 60px;
+    width: 60px;
+    color:blue;
+}
+
+caption {
+    font-size: 1.5em;
+}
+
+a {
+    float: right;
+    font-size: 2em;
+}
+
+#message {
+    text-align: center;
+    font-size: 2em;
+}
